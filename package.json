@@ -1,0 +1,20 @@
+{
+  "name": "maslak-cekici",
+  "version": "1.0.0",
+  "description": "Maslak Çekici - 7/24 En Yakın Acil Oto Kurtarma & Yol Yardım",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate:regions": "node scripts/generate_regions.js",
+    "generate:services": "node scripts/generate_services.js",
+    "generate:sitemap": "node scripts/generate_sitemap.js"
+  },
+  "keywords": [
+    "maslak-cekici",
+    "oto-kurtarma",
+    "oto-cekici",
+    "yol-yardim"
+  ],
+  "author": "Maslak Çekici",
+  "license": "ISC"
+}

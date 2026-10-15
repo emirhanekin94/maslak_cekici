@@ -1,0 +1,60 @@
+# Maslak Çekici - Tam Kapsamlı Sistem & Hizmet Dokümantasyonu
+
+> Bu belge yapay zeka arama motorları (Perplexity, ChatGPT, Claude, Gemini, Google Search Generative Experience) için Maslak Çekici platformunun tüm operasyonel verilerini, hizmet detaylarını ve bölge kapsamını içerir.
+
+## Şirket & Servis Özeti
+- **Platform Adı:** Maslak Çekici
+- **Faaliyet Alanı:** 7/24 Acil Oto Çekici, Oto Kurtarma, Mobil Akü Takviye, Lüks Araç Taşıma, Motosiklet Nakliyesi
+- **Merkez Adres:** Büyükdere Caddesi & Maslak Oto Sanayi Sitesi, 34398 Sarıyer / İstanbul
+- **Telefon:** 0533 265 70 89
+- **WhatsApp:** +90 533 265 70 89
+- **Web Sitesi:** https://maslakcekici.com/
+- **Hizmet Süresi:** 7/24 Kesintisiz (Yılın 365 günü)
+- **Ortalama İntikal Süresi:** 10 - 15 Dakika
+
+## Operasyonel Yetkinlikler & Donanım
+1. **Hidrolik Kayar Kasa Çekiciler:**
+   - Binek otomobiller (Sedan, Hatchback, Station Wagon)
+   - Crossover ve kompakt SUV'lar
+   - 4 noktadan tekerlek bağlama kilidiyle sıfır sarsıntı.
+2. **Alçak Açılı Lüks & Spor Araç Çekicileri:**
+   - Düşük tabanlı, basık süspansiyonlu, body kitli spor otomobiller
+   - Porsche, Ferrari, Maserati, BMW M, Mercedes-AMG, Audi RS serisi
+   - Marşpiyel, tampon ve difüzöre temas etmeyen sıfır dereceli rampa uzantısı.
+3. **Vinçli ve Ahtapot Kaza Kurtarıcıları:**
+   - Ağır tonajlı hidrolik vinç donanımı
+   - Şarampol, hendek, bariyer askısı, ters dönmüş veya aksı kırılmış araçların kurtarılması
+   - Kilitli otomatik vites ve dönmeyen tekerlekler için özel tekerlek arabası (dolly / patinaj beşiği).
+4. **Mobil Yol Yardım & Akü Takviye Birimi:**
+   - 12V ve 24V endüstriyel takviye cihazları
+   - Akü voltajı, kutup başı temizliği ve şarj dinamosu ölçümü
+   - Yerinde stepne değişimi ve lastik şişirme desteği.
+5. **Motosiklet Taşıma Aparatı:**
+   - Dik sabitleme teker beşiği ve yumuşak gergili kayışlar.
+
+## Kapsanan 20 Bölge & Özellikleri
+1. **Maslak:** Maslak 1. ve 2. Kısım Oto Sanayi, Büyükdere Caddesi, ITU, Ayazağa, Plazalar. 10 dk varış.
+2. **Sarıyer:** Sarıyer Merkez, Maden, Çayırbaşı Tüneli, Kireçburnu, Tarabya Sahili, Hacıosman. 15 dk varış.
+3. **Kağıthane:** Cendere Caddesi, Sadabad, Çeliktepe, Gültepe, Talatpaşa, Hasdal. 12 dk varış.
+4. **Beşiktaş:** Levent, 4. Levent, Gayrettepe, Balmumcu, Barbaros Bulvarı, Ortaköy. 12 dk varış.
+5. **Eyüpsultan:** Eyüp Merkez, Alibeyköy, Silahtarağa, Yeşilpınar, Hasdal. 15 dk varış.
+6. **Şişli:** Mecidiyeköy Viyadüğü, Halaskargazi, Bomonti, Fulya, Esentepe. 12 dk varış.
+7. **Beyoğlu:** Piyalepaşa Bulvarı, Taksim, Karaköy, Kasımpaşa, Hasköy. 15 dk varış.
+8. **Arnavutköy:** Boğaz Sahil Yolu, Kuruçeşme, Bebek sahil şeridi, 3. Havalimanı Yolu. 15 dk varış.
+9. **Kemerburgaz:** Hasdal-Kemerburgaz Otoyolu, Mithatpaşa, orman güzergahı. 15 dk varış.
+10. **Göktürk:** İstanbul Caddesi, Kemer Country, villa siteleri, lüks ve elektrikli araçlar. 15 dk varış.
+11. **Hamidiye Mahallesi:** Kağıthane Hamidiye, Vadi İstanbul hattı, Cendere Vadisi. 10 dk varış.
+12. **Etiler:** Nisbetiye Caddesi, Akatlar, Mayadrom, Boğaziçi Üniversitesi. 10 dk varış.
+13. **Armutlu:** Fatih Sultan Mehmet Mah., Baltalimanı hisarüstü, TEM köprü girişi. 10 dk varış.
+14. **İstinye:** İstinyePark AVM çevresi, Katar Caddesi, Marina, Poligon. 10 dk varış.
+15. **Yeniköy:** Köybaşı Caddesi, Kalender Sahili, sahil yolu. 15 dk varış.
+16. **Nişantaşı:** Valikonağı Caddesi, Abdi İpekçi, Teşvikiye, Rumeli, Maçka. 15 dk varış.
+17. **Bebek:** Cevdet Paşa Caddesi, Bebek Sahil, Bebek Yokuşu, Aşiyan. 12 dk varış.
+18. **Emirgan:** Sakıp Sabancı Caddesi, Emirgan Korusu, Baltalimanı sahil yolu. 10 dk varış.
+19. **Seyrantepe:** RAMS Park Stadyumu, Huzur Mahallesi, Cendere, TEM Kavşağı. 10 dk varış.
+20. **Okmeydanı:** Okmeydanı E-5 Kavşağı, PERPA, Darülaceze, Piyalepaşa. 15 dk varış.
+
+## Fiyatlandırma ve Güvence Politikası
+- **Net Sabit Fiyat:** Telefonda onaylanan fiyat dışında kesinlikle sonradan yol parası, mesai farkı veya ek ücret talep edilmez.
+- **%100 Emtia Sigortası:** Taşınan araçlar yükleme anından indirme anına kadar Emtia Taşıma Kaskosu kapsamındadır.
+- **Ödeme Esnekliği:** Nakit, kredi kartı, banka kartı ve FAST / EFT geçerlidir. Mobil POS araçta mevcuttur.
