@@ -4,6 +4,7 @@
   "description": "Maslak Çekici - 7/24 En Yakın Acil Oto Kurtarma & Yol Yardım",
   "main": "server.js",
   "scripts": {
+    "dev": "node server.js",
     "start": "node server.js",
     "generate:regions": "node scripts/generate_regions.js",
     "generate:services": "node scripts/generate_services.js",
