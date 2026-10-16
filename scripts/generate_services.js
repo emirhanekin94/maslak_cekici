@@ -3,7 +3,7 @@ const path = require('path');
 
 const PHONE = '0533 265 70 89';
 const PHONE_RAW = '905332657089';
-const DOMAIN = 'https://maslakcekici.com';
+const DOMAIN = 'https://maslakotocekici.com';
 
 const services = [
   {
@@ -158,7 +158,7 @@ function buildServicePage(srv) {
         <a href="../index.html" class="brand-logo">
           <img src="../images/logo.svg" alt="Maslak Çekici" width="46" height="46">
           <div class="brand-text">
-            <span class="brand-name">MASLAK <span>ÇEKİCİ</span></span>
+            <span class="brand-name">MASLAK <span>OTO ÇEKİCİ</span></span>
             <span class="brand-tagline">7/24 Acil Yol Yardım</span>
           </div>
         </a>

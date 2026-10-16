@@ -1,4 +1,51 @@
+# ==============================================================
+# Maslak Çekici Robots.txt - Ajan Tabanlı Arama & SEO Optimize
+# ==============================================================
+
 User-agent: *
 Allow: /
+Disallow: /node_modules/
+Disallow: /scripts/
 
-Sitemap: https://maslakcekici.com/sitemap.xml
+# AI Search & LLM Crawlers (Ajan Tabanlı Arama Optimizasyonu)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# Sitemap ve Yapılandırılmış Ajan Bilgi Kaynağı
+Sitemap: https://maslakotocekici.com/sitemap.xml

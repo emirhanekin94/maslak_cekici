@@ -181,6 +181,30 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // 5.1 CANLI GALERİ FİLTRELEME MOTORU (galeri.html)
+  const galleryFilterBtns = document.querySelectorAll('[data-gallery-filter]');
+  const galleryCards = document.querySelectorAll('.photo-slot-card, .gallery-item');
+
+  if (galleryFilterBtns.length && galleryCards.length) {
+    galleryFilterBtns.forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        galleryFilterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const filter = btn.getAttribute('data-gallery-filter');
+
+        galleryCards.forEach(card => {
+          const category = card.getAttribute('data-category') || '';
+          if (filter === 'all' || category === filter || category.includes(filter)) {
+            card.style.display = 'flex';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+      });
+    });
+  }
+
   // 6. Bölge Listesini Genişletme / Daraltma Butonu
   if (toggleAllRegionsBtn && regionsContainer) {
     toggleAllRegionsBtn.addEventListener('click', () => {
@@ -193,7 +217,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (text) text.textContent = 'Daha Az Bölge Göster';
       } else {
         if (icon) icon.textContent = '▼';
-        if (text) text.textContent = 'Tüm Bölgeleri Gör (20 Bölge & Semt)';
+        if (text) text.textContent = 'Tüm Hizmet Bölgelerini Göster';
         const sectionHeader = document.querySelector('#hizmet-bolgelerimiz .section-header');
         if (sectionHeader) {
           sectionHeader.scrollIntoView({ behavior: 'smooth', block: 'start' });
